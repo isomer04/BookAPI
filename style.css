@@ -1,0 +1,17 @@
+/* Optional CSS styling to format the search form and results container */
+#search-form {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  #isbn-input {
+    flex: 1;
+    margin-right: 10px;
+  }
+  
+  #results-container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
